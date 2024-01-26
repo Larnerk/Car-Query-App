@@ -1,3 +1,11 @@
+## Car-Query-App
+
+Based on the project by JavaScript Mastery, found at `https://www.youtube.com/watch?v=pUNSHPyVryU&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3&index=3`
+
+### This project utilizes Next.js 14, React, Tailwind, and Vercel
+
+This project showcases API calls and rendering of fetched API data to a Server Side Rendered page, utilizing Next.js and React.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
